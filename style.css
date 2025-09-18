@@ -21,6 +21,7 @@ ul li a {
   color: white;
   text-align: center;
   text-decoration: none;
+  margin: 20;
 }
 
 ul li a:hover {
