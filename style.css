@@ -6,16 +6,16 @@ body {
     
 ul {
   list-style-type: none;
-  margin: 20 px;
-  padding: 30 px;
+  margin: 20 px 30 px;
+  padding: 30 px 20 px;
   overflow: hidden;
   background-color: #272727;
 }
 
 ul li {
   float: left;
-  padding: 30 px;
-  margin: 30 px;
+  padding: 30 px 20 px;
+  margin: 30 px 20 px;
 }
 
 ul li a {
@@ -23,8 +23,8 @@ ul li a {
   color: white;
   text-align: center;
   text-decoration: none;
-  margin: 20 px;
-  padding: 30 px;
+  margin: 20 px 20 px;
+  padding: 30 px 20 px;
 }
 
 ul li a:hover {
