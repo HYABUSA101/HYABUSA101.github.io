@@ -7,16 +7,16 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 20 px 30 px;
-  padding: 30 px 20 px;
+  margin: 20px 30px;
+  padding: 30px 20px;
   overflow: hidden;
   background-color: #272727;
 }
 /* met ul word unordered list bedoeld. Deze zinnen CSS zorgen voor het uiterlijk van de list. En ook wat er gebeurt als je over de linkjes hovert.*/
 ul li {
   float: left;
-  padding: 30 px 20 px;
-  margin: 30 px 20 px;
+  padding: 30px 20px;
+  margin: 30px 20px;
 }
 
 ul li a {
@@ -24,8 +24,8 @@ ul li a {
   color: white;
   text-align: center;
   text-decoration: none;
-  margin: 20 px 20 px;
-  padding: 30 px 20 px;
+  margin: 20px 20px;
+  padding: 30px 20px;
 }
 
 ul li a:hover {
@@ -33,7 +33,7 @@ ul li a:hover {
   color: black;
 }
 footer {
-  margin-top: 60 px;
+  margin-top: 60px;
   
 }
 button {
