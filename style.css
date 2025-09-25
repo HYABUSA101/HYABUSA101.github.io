@@ -40,3 +40,9 @@ button {
 }
 
 /* Met de footer en de button zorg je voor het stuk tekst onderaan, en welke kleur de knopjes zijn, om daar andere websites te bewegen.*/
+iframe{
+  padding-top: 50px;
+  padding-left: 30px;
+
+}
+/*Het spel 'binairy bonanza' stond verkeerd op de pagina, door padding toe te voegen word er ruimte gecreërd om het wat overzichtelijker te maken.*/
