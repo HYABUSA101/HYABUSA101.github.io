@@ -1,7 +1,7 @@
 body {
     background-color: rgb(0, 0, 0);
     color: rgb(0, 255, 4);
-     background-image: url("matrix-356024_1280.webp");
+     background-image: url("afbeeldingen/matrix-356024_1280.webp");
 /* Hier wordt zowel de textkleur, als het achtergrondplaatje weergegeven, de background-color tag word hier niet gebruikt, maar op een pagina waarbij geen achtergrondplaatje gebruikt word, is dit de standaard kleur. */
 }  
 
