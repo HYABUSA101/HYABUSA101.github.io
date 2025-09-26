@@ -28,6 +28,7 @@ ul li a {
 ul li a:hover {
   background-color: #5fff03;
   color: black;
+  transition: 0,5s; /* Door hierbij transistion toe te voegen kan het menu 'vloeiend' worden aangeklikt*/
 }
 footer {
   margin-top: 200px;
