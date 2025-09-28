@@ -5,6 +5,12 @@ body {
 /* Hier wordt zowel de textkleur, als het achtergrondplaatje weergegeven, de background-color tag word hier niet gebruikt, maar op een pagina waarbij geen achtergrondplaatje gebruikt word, is dit de standaard kleur. */
 }  
 
+
+.title {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
