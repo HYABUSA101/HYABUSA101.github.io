@@ -12,7 +12,9 @@ body {
 .paragraaf{
   font-family: "Lucida Console", "Courier New", monospace;
 }
-
+.menu{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
 ul {
   list-style-type: none;
   margin: 0;
