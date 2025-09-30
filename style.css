@@ -15,6 +15,7 @@ body {
 .menu{
   font-family: "Lucida Console", "Courier New", monospace;
 }
+/* Door hierbij een font family toe te voegen, verander je eigenlijk het lettertype*/
 ul {
   list-style-type: none;
   margin: 0;
