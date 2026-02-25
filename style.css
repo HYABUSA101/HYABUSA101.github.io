@@ -5,7 +5,7 @@ body {
 /* Hier wordt zowel de textkleur, als het achtergrondplaatje weergegeven, de background-color tag word hier niet gebruikt, maar op een pagina waarbij geen achtergrondplaatje gebruikt word, is dit de standaard kleur. */
 }  
 
-
+/* Met een puntje, en het gerichte onderdeel, geef je aan tot welke Klasse dit onderdeel toebehoort. Zo kan je door middel van klassen het bepaalde gedeelte bepalen, en het bv een ander lettertype geven, zoals hier gebruikt. */ 
 .title {
   font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -15,7 +15,7 @@ body {
 .menu{
   font-family: "Lucida Console", "Courier New", monospace;
 }
-/* Door hierbij een font family toe te voegen, verander je eigenlijk het lettertype*/
+/* Door hierbij een font family toe te voegen, verander je eigenlijk het lettertype naar een soort combinatie van lettertypen. Monospace betekent hier simpelweg dat elke letter de zelfde ruimte inneemt.*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -27,7 +27,7 @@ ul {
 ul li {
   float: left;
 }
-
+/* margin zorgt voor de ruimte TUSSEN de elementen, en padding zorgt er eigenlijk voor wat voor ruimte het element zelf inneemt*/
 ul li a {
   display: block;
   color: white;
@@ -43,7 +43,7 @@ ul li a:hover {
 }
 footer {
   margin-top: 200px;
-  
+  /*de footer is eigenlijk het kleine stukje tekst onderaan. Door hier margin aan te geven, is er meer ruimte tussen de footer en body, wat voor meer overzicht zorgt.*/
 }
 button {
   size: 50;
@@ -51,10 +51,10 @@ button {
   background-color: #5fff03;
 }
 
-/* Met de footer en de button zorg je voor het stuk tekst onderaan, en welke kleur de knopjes zijn, om daar andere websites te bewegen.*/
+/* Met de button zorg je voor welke kleur de knopjes zijn, om daar andere websites te bewegen.*/
 iframe{
   padding-top: 50px;
   padding-left: 30px;
 
 }
-/*Het spel 'binairy bonanza' stond verkeerd op de pagina, door padding toe te voegen word er ruimte gecreërd om het wat overzichtelijker te maken.*/
+/*Het spel 'binairy bonanza' stond verkeerd op de pagina, door padding toe te voegen word er ruimte gecreërd om het wat overzichtelijker te maken. Een iframe is eigenlijk een stukje HTML uit een andere pagina, hier op deze pagina toegevoegd.*/
